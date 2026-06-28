@@ -1,6 +1,6 @@
 🏥 Implantação do Tasy em Rede Oncológica
 
-Este projeto simula a implantação do sistema hospitalar **Tasy (Philips)** em uma rede oncológica multicampi, com foco na transformação digital da jornada do paciente oncológico, integração de processos clínicos e administrativos, e melhoria da governança de dados.
+Este projeto simula a implantação do sistema hospitalar **Tasy (Philips)** em uma rede oncológica, com foco na transformação digital da jornada do paciente oncológico, integração de processos clínicos e administrativos, e melhoria da governança de dados.
 
 🎯 Objetivo do Projeto
 
